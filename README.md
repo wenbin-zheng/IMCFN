@@ -3,11 +3,11 @@ This is the source code for the paper "Image Manipulation Fusion Network for Mul
 ![IMCFN Framework](https://github.com/wenbin-zheng/IMCFN/blob/main/IMCFN.jpg)
 
 ## Download data
-If you want to download the `Weibo` dataset, you can access the following link: [https://github.com/yaqingwang/EANN-KDD18](https://github.com/yaqingwang/EANN-KDD18/)
+ `Weibo` dataset is available at [https://github.com/yaqingwang/EANN-KDD18](https://github.com/yaqingwang/EANN-KDD18/)
 
-If you want to download the `GossipCop` dataset, you can access the following link: [https://github.com/shiivangii/SpotFakePlus]( https://github.com/shiivangii/SpotFakePlus/)
+ `GossipCop` dataset can be access the following link: [https://github.com/shiivangii/SpotFakePlus]( https://github.com/shiivangii/SpotFakePlus/)
 
-Then, you should put them into `./Data`
+The downloaded datasets need to be moved into the `./Data` folder.
 
 ## Data pre-processing
 
@@ -17,7 +17,7 @@ Use `datprocess_gossipcop.py` to pre-process the `GossipCop` dataset.
 
 If you want to change dataset for training, you should revise
 ```python
-import utils.processdata_weibo as preprocess_data
+import utils.dataprocess_weibo as processed_data
 ```
 ```python
 --dataset default='weibo'
