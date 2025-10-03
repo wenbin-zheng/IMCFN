@@ -5,7 +5,7 @@ This is the source code for the paper "Image Manipulation Fusion Network for Mul
 ## Download data
  `Weibo` dataset is available at [https://github.com/yaqingwang/EANN-KDD18](https://github.com/yaqingwang/EANN-KDD18/)
 
- `GossipCop` dataset can be access the following link: [https://github.com/shiivangii/SpotFakePlus]( https://github.com/shiivangii/SpotFakePlus/)
+ `GossipCop` dataset can be accessed from the following link: [https://github.com/shiivangii/SpotFakePlus]( https://github.com/shiivangii/SpotFakePlus/)
 
 The downloaded datasets need to be moved into the `./Data` folder.
 
