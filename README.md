@@ -1,6 +1,6 @@
 # IMCFN
 This is the source code for the paper "Image Manipulation Fusion Network for Multimodal Fake News Detection."
-![IMCFN Framework](https://github.com/wenbin-zheng/IMCFN/blob/main/IMCFN.jpg)
+![IMCFN Framework](https://github.com/wenbin-zheng/IMCFN/blob/main/IMCF.jpg)
 
 ## Download data
  `Weibo` dataset is available at [https://github.com/yaqingwang/EANN-KDD18](https://github.com/yaqingwang/EANN-KDD18/)
